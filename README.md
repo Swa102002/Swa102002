@@ -55,13 +55,13 @@ Interactive Power BI dashboard analyzing Amazon Prime Video content, including:
 🔗 **[View Project](https://github.com/Swa102002/Amazon-Prime-PowerBI-Dashboard)**
 
 
-### Netflix Power BI Dashboard
+### 🎬 Netflix Power BI Dashboard
 
 Interactive Power BI dashboard for analyzing Netflix movies and TV shows, including content types, genres, ratings, release years, countries, and content trends.
 
-Technologies: Power BI, Power Query, DAX, Data Cleaning, Data Visualization
+**Technologies:** Power BI, Power Query, DAX, Data Cleaning, Data Visualization
 
-🔗 [View Project] (https://github.com/Swa102002/Netflix-PowerBI-Dashboard)
+🔗 [View Project](https://github.com/Swa102002/Netflix-PowerBI-Dashboard)
 
 ### 🤖 Phone Number Tracking using Machine Learning
 
