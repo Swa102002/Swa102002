@@ -61,7 +61,7 @@ Interactive Power BI dashboard for analyzing Netflix movies and TV shows, includ
 
 Technologies: Power BI, Power Query, DAX, Data Cleaning, Data Visualization
 
-🔗 Coming Soon
+🔗 [View Project] (https://github.com/Swa102002/Netflix-PowerBI-Dashboard)
 
 ### 🤖 Phone Number Tracking using Machine Learning
 
