@@ -63,13 +63,15 @@ Interactive Power BI dashboard for analyzing Netflix movies and TV shows, includ
 
 🔗 [View Project](https://github.com/Swa102002/Netflix-PowerBI-Dashboard)
 
-### 🤖 Phone Number Tracking using Machine Learning
+## 🚀 My Projects
 
-Flask-based machine learning application that predicts telecom operators using phone number prefixes.
+### 📱 Phone Number Tracking using Machine Learning
 
-**Technologies:** Python, Flask, Machine Learning, Pandas, Scikit-learn, Folium
+A Flask-based web application that analyzes Indian phone numbers and predicts the telecom operator using Machine Learning models.
 
-🔗 Coming Soon
+**Technologies:** Python, Flask, Pandas, Scikit-learn, Folium, OpenCage API
+
+🔗 [View Project Repository](https://github.com/Swa102002/Phone-Number-Tracking-ML)
 
 
 ## 📚 Currently Working On
