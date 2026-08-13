@@ -8,16 +8,16 @@ I'm a Data Analyst focused on transforming raw data into actionable insights usi
 
 ### 📊 Data Analytics & BI
 
-Power BI
-SQL
-Python
-Excel
-DAX
-Power Query
-Tableau
-Pandas
-NumPy
-Matplotlib
+* Power BI
+* SQL
+* Python
+* Excel
+* DAX
+* Power Query
+* Tableau
+* Pandas
+* NumPy
+* Matplotlib
 
 ### 📋 CRM & Research Tools
 
@@ -32,16 +32,19 @@ Matplotlib
 
 ### 📺 Amazon Prime Power BI Dashboard
 
-Interactive Power BI dashboard analyzing Amazon Prime Video content, including:
+Interactive Power BI dashboard analyzing Amazon Prime Video's content library and identifying trends across content type, genres, countries, ratings, and release years.
 
+**Key Analysis:**
 * Total Titles
 * Movies vs TV Shows
 * Content Growth
 * Top Genres
-* Countries
+* Country Distribution
 * Age Ratings
 
-🔗 **[View Project](https://github.com/Swa102002/Amazon-Prime-PowerBI-Dashboard)**
+**Technologies:** Power BI • DAX • Power Query • Data Cleaning • Data Visualization
+
+🔗 [View Project](https://github.com/Swa102002/Amazon-Prime-PowerBI-Dashboard)
 
 
 ### 🎬 Netflix Power BI Dashboard
@@ -72,9 +75,9 @@ A Flask-based web application that analyzes Indian phone numbers and predicts th
 
 ### 📜 Data Analyst Certification
 
-**Status:** ✅ Completed
-
+**Status:** ✅ Completed  
 **Skills:** Python • SQL • Power BI • Tableau • Advanced Excel • Data Analysis • Data Visualization
+🔗 [View Certificate](YOUR_CERTIFICATE_LINK)
 
 ## 📚 Currently Learning
 
