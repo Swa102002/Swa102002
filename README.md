@@ -30,6 +30,24 @@ I'm a Data Analyst focused on transforming raw data into actionable insights usi
 
 ## 🚀 Featured Projects
 
+### 🎬 Netflix Power BI Dashboard
+> ⭐ **Latest Project**
+
+Interactive Power BI dashboard analyzing Netflix's content catalog to identify trends across movies and TV shows, genres, ratings, countries, and release years.
+
+**Key Analysis:**
+* Movies vs TV Shows
+* Content by Release Year
+* Genre Distribution
+* Country Analysis
+* Rating Distribution
+* Content Trends
+
+**Technologies:** Power BI • Power Query • DAX • Data Cleaning • Data Visualization
+
+🔗 [View Project](https://github.com/Swa102002/Netflix-PowerBI-Dashboard)
+
+
 ### 📺 Amazon Prime Power BI Dashboard
 
 Interactive Power BI dashboard analyzing Amazon Prime Video's content library and identifying trends across content type, genres, countries, ratings, and release years.
@@ -47,23 +65,13 @@ Interactive Power BI dashboard analyzing Amazon Prime Video's content library an
 🔗 [View Project](https://github.com/Swa102002/Amazon-Prime-PowerBI-Dashboard)
 
 
-### 🎬 Netflix Power BI Dashboard
-
-Interactive Power BI dashboard for analyzing Netflix movies and TV shows, including content types, genres, ratings, release years, countries, and content trends.
-
-**Technologies:** Power BI, Power Query, DAX, Data Cleaning, Data Visualization
-
-🔗 [View Project](https://github.com/Swa102002/Netflix-PowerBI-Dashboard)
-
-
 ### 📱 Phone Number Tracking using Machine Learning
 
 A Flask-based web application that analyzes Indian phone numbers and predicts the telecom operator using Machine Learning models.
 
-**Technologies:** Python, Flask, Pandas, Scikit-learn, Folium, OpenCage API
+**Technologies:** Python • Flask • Pandas • Scikit-learn • Folium • OpenCage API
 
-🔗 [View Project Repository](https://github.com/Swa102002/Phone-Number-Tracking-ML)
-
+🔗 [View Project](https://github.com/Swa102002/Phone-Number-Tracking-ML)
 
 ## 🎓 Education & Certifications
 
