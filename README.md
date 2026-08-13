@@ -74,6 +74,24 @@ A Flask-based web application that analyzes Indian phone numbers and predicts th
 🔗 [View Project Repository](https://github.com/Swa102002/Phone-Number-Tracking-ML)
 
 
+## 🎓 Education & Certifications
+
+### 🎓 Education
+
+- **Master of Science in Information Technology (MScIT)** — Completed
+- **Bachelor of Science in Information Technology (BScIT)** — Completed
+- **Higher Secondary Certificate (HSC) — Science** — Completed
+
+### 📜 Certification
+
+- **Data Analyst Certification** — Completed
+  - Python
+  - SQL
+  - Power BI
+  - Advanced Excel
+  - Data Analysis
+  - Data Visualization
+
 ## 📚 Currently Working On
 
 * Advanced Power BI & DAX
