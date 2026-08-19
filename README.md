@@ -85,7 +85,7 @@ A Flask-based web application that analyzes Indian phone numbers and predicts th
 
 **Status:** ✅ Completed  
 **Skills:** Python • SQL • Power BI • Tableau • Advanced Excel • Data Analysis • Data Visualization
-🔗 [View Certificate](YOUR_CERTIFICATE_LINK)
+
 
 ## 📚 Currently Learning
 
